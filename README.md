@@ -28,29 +28,35 @@ pong-game/
 ├── style.css        # Game styles
 └── game.js          # All the game logic
 
+
 ---
 
 ### 🧑‍💻 How to Play
 
 1. Open the [Live Demo](https://canushka.github.io/pong/) in your browser
-2. Move your mouse up/down to control the **left (green)** paddle
-3. Try to bounce the ball past the **AI (red)** paddle on the right
-4. First to score wins — or just keep playing forever 😄
-
----
-
-### 💡 Controls
-
-| Action         | Control         |
-|----------------|-----------------|
-| Move Paddle    | Mouse Movement  |
-| Start Game     | Auto on page load |
-| Restart Game   | Refresh the page |
+2. Move your mouse up/down to control the green paddle
+3. Beat the AI by getting the ball past the red paddle
 
 ---
 
 ### 📦 Run Locally
 
-You can run this game locally with zero setup:
+Just open `index.html` in any browser — no installation required!
 
-```bash
+---
+
+### 🛠 Future Upgrades
+
+- Add sound effects 🎵  
+- Support keyboard controls 🕹️  
+- Add multiplayer mode 👫  
+- Pause/Restart buttons ⏸️🔁
+
+---
+
+### 🧠 Built by
+
+**Anushka Chatterjee** 💜  
+_Always building, always learning._
+
+
