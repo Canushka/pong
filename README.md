@@ -25,7 +25,9 @@ A classic Pong game built using **HTML**, **CSS**, and **JavaScript** — featur
 
 pong-game/
 ├── index.html       # Main HTML file
+
 ├── style.css        # Game styles
+
 └── game.js          # All the game logic
 
 
